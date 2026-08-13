@@ -46,7 +46,7 @@ I'm primarily working with C# and Unity and currently developing my skills in
 
 ## 🎮 Featured Projects
 
-### [URProgrammer_Game] (https://github.com/lonitret/URProgrammer_Game/releases)
+### [URProgrammer_Game](https://github.com/lonitret/URProgrammer_Game/releases)
 2D Unity/C# game prototype about a programmer's workday.
 
 - Quest system
@@ -57,7 +57,7 @@ I'm primarily working with C# and Unity and currently developing my skills in
 - Tutorial
 - Windows release
 
-### [AIS_1lab] (https://github.com/GirliesHub/AIS_1lab)
+### [AIS_1lab](https://github.com/GirliesHub/AIS_1lab)
 Academic C#/.NET project demonstrating layered architecture,
 Entity Framework, Dapper and Dependency Injection.
 
