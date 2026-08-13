@@ -22,7 +22,7 @@ developing my **.NET / backend** skills.
 
 ### 🔬 Other
 
-- Computer Vision project — YOLOv8 / CVAT / Python
+- Computer Vision project: YOLOv8 / CVAT / Python
 - Co-author of a 2026 research publication on diegetic interfaces in video games
 
 ### 📫 Contact
