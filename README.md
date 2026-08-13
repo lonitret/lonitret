@@ -1,78 +1,30 @@
-
 # Hi, I'm Lonitret 👋
 
-### C# Developer / Unity Developer Intern
+### C# / Unity Developer Intern
 
-3rd-year Information Systems and Technologies student at Siberian Federal University,
-specializing in Computer Games and Applications.
+3rd-year Information Systems and Technologies student at
+Siberian Federal University.
 
-I'm primarily working with C# and Unity and currently developing my skills in
-.NET backend development.
+I'm primarily working with **C# and Unity** and currently
+developing my **.NET / backend** skills.
 
-## 🛠️ Tech Stack
+### 🛠️ Main technologies
 
-### Languages
-- C#
-- Python
-- SQL
+**C# · .NET · Unity · SQL · PostgreSQL · SQLite · Python · Git**
 
-### C# / .NET
-- OOP
-- SOLID
-- LINQ
-- async/await
-- Generics & Collections
-- Interfaces & Abstract Classes
-- Delegates & Events
-- Dependency Injection
-- Entity Framework
-- Dapper
+### 🎮 Featured projects
 
-### Game Development
-- Unity
-- ScriptableObjects
-- NavMesh
-- Game systems & gameplay logic
+- 🎮 [URProgrammer_Game](https://github.com/lonitret/URProgrammer_Game)
+  — 2D Unity/C# game prototype
 
-### Databases
-- SQL Server / LocalDB
-- PostgreSQL
-- SQLite
+- 💻 [AIS_1lab](https://github.com/GirliesHub/AIS_1lab)
+  — C#/.NET academic project with Entity Framework, Dapper and DI
 
-### Tools
-- Git / GitHub
-- YouGile
-- CVAT
+### 🔬 Other
 
-## 🎮 Featured Projects
-
-### [URProgrammer_Game](https://github.com/lonitret/URProgrammer_Game/releases)
-2D Unity/C# game prototype about a programmer's workday.
-
-- Quest system
-- NPC interactions
-- Reputation & anger systems
-- Inventory
-- Mini-games
-- Tutorial
-- Windows release
-
-### [AIS_1lab](https://github.com/GirliesHub/AIS_1lab)
-Academic C#/.NET project demonstrating layered architecture,
-Entity Framework, Dapper and Dependency Injection.
-
-## 🔬 Other Experience
-
-- Computer Vision project at TIM Biryusa 2026
+- Computer Vision project — YOLOv8 / CVAT / Python
 - Co-author of a 2026 research publication on diegetic interfaces in video games
 
-## 📚 Currently Learning
+### 📫 Contact
 
-- C# fundamentals
-- .NET / ASP.NET Core
-- Backend development
-- Software architecture
-
-## 📫 Contact
-
-- GitHub: https://github.com/lonitret
+[GitHub](https://github.com/lonitret) · [Email](lonitret@gmail.com) · [Telegram](@afenq)
