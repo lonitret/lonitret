@@ -27,4 +27,4 @@ developing my **.NET / backend** skills.
 
 ### 📫 Contact
 
-[GitHub](https://github.com/lonitret) · [Email](lonitret@gmail.com) · [Telegram](@afenq)
+[GitHub](https://github.com/lonitret) · lonitret@gmail.com · Telegram @afenq
